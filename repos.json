@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "repositories": [
+    {
+      "repository": "infoe-labs/infoe-bots",
+      "default_branch": "main",
+      "pages_url": null,
+      "required_checks": [
+        "test",
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/quick-pdf-editor",
+      "default_branch": "main",
+      "pages_url": "https://infoe-labs.github.io/quick-pdf-editor/",
+      "required_checks": [
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/pwa-base-layer",
+      "default_branch": "main",
+      "pages_url": "https://infoe-labs.github.io/pwa-base-layer/",
+      "required_checks": [
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/activity-tracker",
+      "default_branch": "main",
+      "pages_url": "https://infoe-labs.github.io/activity-tracker/",
+      "required_checks": [
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/mobile-linux",
+      "default_branch": "main",
+      "pages_url": "https://infoe-labs.github.io/mobile-linux/",
+      "required_checks": [
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/pikvm-cli",
+      "default_branch": "main",
+      "pages_url": null,
+      "required_checks": [
+        "build"
+      ]
+    },
+    {
+      "repository": "infoe-labs/new-repo",
+      "default_branch": "main",
+      "pages_url": null,
+      "required_checks": [
+        "build"
+      ]
+    }
+  ]
+}
